@@ -13,3 +13,6 @@ https://twitter.com/iandouglas736/status/724113736865206272
 I won 2nd place! (not a very flattering photo lol)
 https://twitter.com/iandouglas736/status/724383151796023296
 
+update:
+
+Yes, I know having API keys embedded in the code like this is a bad idea, but the main SendGrid API has long been deactivated. :)
